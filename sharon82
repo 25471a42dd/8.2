@@ -1,0 +1,40 @@
+## JavaFX GUI – Display Text in Label and Image in ImageView
+
+Aim: To create a GUI using JavaFX that displays text in a Label and an image in an ImageView without writing any Java code.
+
+### GUI Design
+
+# JavaFX Application
+
+## Welcome to JavaFX
+
+Vibrant Mountain Landscape with Clear Lake - Free Download - AI Scribbles
+
+[aiscribbles.com](<https://www.aiscribbles.com/img/67621/vibrant-mountain-landscape-with-clear-lake/?utm_source=chatgpt.com>)
+
+ImageView – Displays an image
+
+Label – Displays text
+
+### Steps to create using Scene Builder
+
+1. Open JavaFX Scene Builder.
+2. Create a new FXML document.
+3. Drag a VBox from the Containers section into the layout.
+4. Drag a Label into the VBox.
+5. Set the Label text to `Welcome to JavaFX`.
+6. Drag an ImageView into the VBox.
+7. Select an image using the ImageView properties.
+8. Adjust the ImageView width and height.
+9. Set the alignment of VBox to `CENTER`.
+10. Save the FXML file.
+
+### Components Used
+
+| Component | Purpose |
+| --- | --- |
+| VBox | Arranges components vertically |
+| Label | Displays text |
+| ImageView | Displays an image |
+
+Result: A JavaFX GUI is designed successfully to display text using a Label and an image using an ImageView without writing any Java code.
